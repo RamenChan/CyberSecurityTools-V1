@@ -1,0 +1,1 @@
+## Bu Kısıma herkes kendi adı.py olacak şekilde push'layarak örnekleri çözecek
