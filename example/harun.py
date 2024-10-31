@@ -7,6 +7,8 @@ s4 = 9
 toplam =s1+s2+s3+s4
 çarpma = s1*s2*s3*s4
 çıkartma = (s2-s1)-(s3-s4)
+bölme =(s2/s1)/(s3/s4)
 print ('toplama: ',toplam)
 print  ('çıkarma :',çıkartma)
 print ('çarpma:',çarpma)
+print ('bölme: ',bölme)
